@@ -14,4 +14,4 @@ Written in Swift as a learning project
 
 ## Demo
 
-![Taski App](https://github.com/truongtr/Taski/raw/master/out.gif)
+![Taski App](https://github.com/truongtr/Taski/raw/master/app.gif)
